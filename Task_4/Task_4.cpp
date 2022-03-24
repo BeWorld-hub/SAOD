@@ -52,7 +52,7 @@ int main()
 	cout << "key = ";
 	cin >> key;
 
-	Find(Init(size), 13, size);
+	Find(Init(size), key, size);
 
 	system("pause"); 
 	return 0;
