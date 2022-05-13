@@ -1,0 +1,3 @@
+﻿  Task_7.cpp
+C:\Users\user\Desktop\ВУЗ\САОД\SAOD\Task_7\Task_7.cpp(114): warning C4715: list::operator[]: значение возвращается не при всех путях выполнения
+  Task_7.vcxproj -> C:\Users\user\Desktop\ВУЗ\САОД\SAOD\Task_7\x64\Debug\Task_7.exe

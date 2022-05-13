@@ -1,0 +1,5 @@
+﻿  Task_6.cpp
+C:\Users\user\Desktop\ВУЗ\САОД\SAOD\Task_6\Task_6.cpp(10,28): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\user\Desktop\ВУЗ\САОД\SAOD\Task_6\Task_6.cpp(10,17): warning C4309: инициализация: усечение константного значения
+C:\Users\user\Desktop\ВУЗ\САОД\SAOD\Task_6\Task_6.cpp(75,6): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Task_6.vcxproj -> C:\Users\user\Desktop\ВУЗ\САОД\SAOD\Task_6\x64\Debug\Task_6.exe

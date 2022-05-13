@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Queue.cpp
+C:\Users\user\Desktop\ВУЗ\САОД\SAOD\Task_9_2\Queue.cpp(29,19): error C2561: Queue::remove: функция должна возвращать значение
+C:\Users\user\Desktop\ВУЗ\САОД\SAOD\Task_9_2\Queue.cpp(27): message : см. объявление "Queue::remove"
+C:\Users\user\Desktop\ВУЗ\САОД\SAOD\Task_9_2\Queue.cpp(49,21): warning C4804: <: небезопасное использование типа "bool" в операции
+  Создание кода...
